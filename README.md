@@ -1,2 +1,2 @@
 # bevy_games
-Repo fo bevy games
+Repo for bevy games
